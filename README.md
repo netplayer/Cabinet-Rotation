@@ -10,4 +10,4 @@ Though obviously successful use of the scripts reliaes on thye biggest part on f
 
 [https://netplayer.gr/closet_rotate/]
 
-![]https://netplayer.gr/closet_rotate/closet.png
+![](https://netplayer.gr/closet_rotate/closet.png)
